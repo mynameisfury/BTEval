@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQvucYd/ibeZBxA/bc/aZba7vNsIP1yQcJjxGKAqYxBuXr3CwtZ4ihwoOaIj3fc65s4mkLQtnFyNs7/5vzIgHg==",
+  "success": true,
+  "projectFilePath": "D:\\mynameisfury\\GitHub_Projects\\BoomTownEval\\BoomTownEval\\BoomTownEval.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mynameisfury\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
